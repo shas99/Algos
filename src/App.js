@@ -17,7 +17,7 @@ function App() {
       <Bubble/> */}
 
 
-      <Bubble/>
+    
 
     <Counter/>
 
